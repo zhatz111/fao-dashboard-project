@@ -1,0 +1,3 @@
+use python geo package to create map where user can select country to see there emissions
+learn some javascript possibly to enable better visualizations?
+use python dash package to create the dashboard for displaying the information

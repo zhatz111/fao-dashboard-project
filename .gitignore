@@ -75,8 +75,11 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
+# # exclude data from source control by default
+# /data/
+# Choosing to include data in source control since the dashboard
+# relies on the specific dataset I'm using
+
 
 # Mac OS-specific storage files
 .DS_Store
