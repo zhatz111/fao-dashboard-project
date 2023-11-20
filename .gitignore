@@ -8,6 +8,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 .venv/
+.env/
 build/
 develop-eggs/
 dist/
@@ -79,7 +80,6 @@ target/
 # /data/
 # Choosing to include data in source control since the dashboard
 # relies on the specific dataset I'm using
-
 
 # Mac OS-specific storage files
 .DS_Store
